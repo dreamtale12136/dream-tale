@@ -1,2 +1,3 @@
 # dream-tale
-just a new repository
+Hi, everybody!
+I am a programmer working in Java development
